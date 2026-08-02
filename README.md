@@ -1,6 +1,6 @@
 ![Banner](diagrams/banner.png)
 
-# SQL Data Warehouse & Sales Analytics
+## SQL Data Warehouse & Sales Analytics
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)]()
